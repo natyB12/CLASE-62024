@@ -1,0 +1,33 @@
+body{
+    background-image: url( https://images3.alphacoders.com/621/621682.jpg);
+    background-size: 100%;
+}
+h1{
+    background-color: rgba(0, 0, 0, 0.8);
+  color: #f4e033;
+  font-family: "Roboto Mono", monospace;
+    font-optical-sizing:auto;
+    font-weight: weight;
+    font-style: normal;}
+
+ @font-face 
+ {font-family: roboto;
+ src: url(./fuentes/Roboto_Condensed.zip);}
+
+h2
+{
+background-color:orange;
+ font-family:sans-serif,
+ color: white;
+ opacity: 0,4;
+ font-style:normal;
+}
+.material-symbols-outlined
+ {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24;
+}
+
